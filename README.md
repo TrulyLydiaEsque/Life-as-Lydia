@@ -1,5 +1,5 @@
 # okay, cool.
-a short phrase  use to cnclude plans, finish an excerpt of conversation, or anything, really.
+a short phrase  use to conclude plans, finish an excerpt of conversation, or anything, really.
 
 ### What are my Interests?
 
@@ -12,11 +12,11 @@ a short phrase  use to cnclude plans, finish an excerpt of conversation, or anyt
 
 
 ```markdown
-so i'm uncertain of what i'm doing with my life
+so i'm uncertain of what i'm doing with my life but i try my best to make do.
 
-# Header 1
-## Header 2
-### Header 3
+#   so
+##  yeah,
+###  cool.
 
 - Bulleted
 - List
