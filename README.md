@@ -14,18 +14,18 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 ```markdown
 so i'm uncertain of what i'm doing with my life, but i try my best to make do.
 
-so... 
-   yeah,
-                 cool.
+so... yeah, 
+
+_cool._
 
 as you can see, i'm quite awkward.
 quite may be an understatement. 
 ```
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**ooo here are a couple of my links** 
+[my insta](url) 
+[my twitter](url) 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
