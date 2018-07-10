@@ -12,17 +12,16 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 
 
 ```markdown
-so i'm uncertain of what i'm doing with my life but i try my best to make do.
+so i'm uncertain of what i'm doing with my life, but i try my best to make do.
 
-#   so
-##  yeah,
-###  cool.
+so... 
+   yeah,
+                 cool.
 
-- Bulleted
-- List
+as you can see, i'm quite awkward.
+quite may be an understatement. 
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
