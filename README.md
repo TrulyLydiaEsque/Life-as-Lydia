@@ -48,7 +48,7 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 6. sustainability
 
 **ooo here are a couple of my links** 
-[my insta](url) & [my twitter](url) 
+[my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
