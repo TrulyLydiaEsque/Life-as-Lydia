@@ -40,12 +40,12 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 
 ### What are my Interests?
 
-1. cooking/baking 
-2. ballet
-3. sketchbook
-4. street style
-5. veganism
-6. sustainability
+- cooking/baking 
+- ballet
+- sketchbook
+- street style
+- veganism
+- sustainability
 
 **ooo here are a couple of my links** 
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
