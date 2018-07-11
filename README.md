@@ -50,13 +50,5 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 **ooo here are a couple of my links** 
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Content
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrulyLydiaEsque/Life-as-Lydia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+this is the epitome of a trashy blog. there is no real theme, little organizaion, and general rants about life are plentiful. please enjoy my awkward tangents and ethusing abut miselaeous topics. 
