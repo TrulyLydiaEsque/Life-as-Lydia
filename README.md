@@ -44,7 +44,6 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 - ballet
 - sketchbook
 - street style
-- veganism
 - sustainability
 
 **ooo here are a couple of my links** 
