@@ -51,7 +51,7 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
 
 My Leg
-![Leg](20180711_110916.jpg)
+![Leg](/_assets/images/20180711_110916.jpg)
 
 
    
