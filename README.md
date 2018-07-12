@@ -50,5 +50,7 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 **ooo here are a couple of my links** 
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
 
+My Leg(
+    
 ### Content
 this is the epitome of a trashy blog. there is no real theme, little organizaion, and general rants about life are plentiful. please enjoy my awkward tangents and ethusing abut miselaeous topics. 
