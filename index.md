@@ -45,11 +45,11 @@ this is the epitome of a trashy blog. there is no real theme, little organizaion
 
 | my interests  | why it's great    | were? |
 |:--------------|:------------------|:------|
-| cooking/baking| v. tasty          | here  |
-| ballet        | challenging       | here  |
-| sketchbook    | focusing          | here  |
-| street style  | v. cute           | here  |
-| sustainability| because earth     | here  |
+| cooking/baking| v. tasty          | [here]()  |
+| ballet        | challenging       | [here]()  |
+| sketchbook    | focusing          | [here](https://github.com/TrulyLydiaEsque/Life-as-Lydia/blob/master/Sketchbook.md)  |
+| street style  | v. cute           | [here]()  |
+| sustainability| because earth     | [here]()  |
 
 **ooo here are a couple of my links** 
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
