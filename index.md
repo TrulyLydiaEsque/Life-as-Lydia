@@ -51,7 +51,7 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 
 # My Leg
 
-![Leg](/_assets/images/20180711_110916.jpg)
+<img src="/_assets/images/20180711_110916.jpg">
 
 ![Leg2](/_assets/images/20180711_110908.jpg)
 
