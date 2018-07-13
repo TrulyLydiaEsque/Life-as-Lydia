@@ -11,7 +11,7 @@
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ this button is just or fun }}"{% endif %}>{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ this button is just for fun }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -23,7 +23,7 @@
         </button>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "this button is just or fun" }}</span>
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "this button is just for fun" }}</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
