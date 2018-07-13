@@ -23,7 +23,7 @@
         </button>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "this button is just or fun" }}</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
