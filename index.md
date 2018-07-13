@@ -47,7 +47,7 @@ this is the epitome of a trashy blog. there is no real theme, little organizaion
 |:--------------|:------------------|:------|
 | cooking/baking| v. tasty          | [here]()  |
 | ballet        | challenging       | [here]()  |
-| sketchbook    | focusing          | [here]()  |
+| sketchbook    | focusing          | [here](Sketchbook.md)  |
 | street style  | v. cute           | [here]()  |
 | sustainability| because earth     | [here]()  |
 
