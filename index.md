@@ -48,12 +48,6 @@ a short phrase  use to conclude plans, finish an excerpt of conversation, or any
 | street style  | v. cute           | here  |
 | sustainability| because earth     | here  |
 
-- cooking/baking 
-- ballet
-- sketchbook
-- street style
-- sustainability
-
 **ooo here are a couple of my links** 
 [my insta](https://www.instagram.com/lydia__lauren/) & [my twitter](https://twitter.com/lydiaesque) 
 
